@@ -32,12 +32,10 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
 <br />
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralidharan92&theme=dark&hide_langs_below=1" />
-<img align="left" alt="Muralidharan Github Stats" src="https://github-readme-stats.vercel.app/api?username=muralidharan92&show_icons=true&hide_border=true" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=muralidharan92&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 [website]: https://gfixtures.netlify.app/
 [twitter]: https://twitter.com/muralidharanr92
 [youtube]: https://www.youtube.com/channel/UCHWehQi90pCKpQ5sVlRKQ9Q
