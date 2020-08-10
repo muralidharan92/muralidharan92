@@ -38,8 +38,7 @@
   <img alt="npm" src="https://img.shields.io/npm/v/protractor-tester-utils?color=g&label=protractor-tester-utils&logo=npm&style=social">
 </a>
 <br />
-<br />
-<br />
+
 
 ### GIT:
 
