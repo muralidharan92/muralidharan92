@@ -32,6 +32,13 @@
 
 <br />
 <br />
+
+### Open Source Contribution:
+<a href="https://www.npmjs.com/package/protractor-tester-utils">
+  <img alt="npm" src="https://img.shields.io/npm/v/protractor-tester-utils?color=g&label=protractor-tester-utils&logo=npm&style=social">
+</a>
+<br />
+<br />
 <br />
 
 ### GIT:
