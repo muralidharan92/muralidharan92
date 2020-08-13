@@ -1,8 +1,8 @@
-# Hi there, I'm Muralidharan 👋
+# Hi, I'm Muralidharan 👋
 
 ### I'm an SDET [Software Development Engineer in Test], and Tutor!
 - 🔭 I’m currently working on a [Node.js & Protractor]
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Right now learning everything 🤣
 - 👯 I’m looking to collaborate with other Node.js project contributors
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play E-Gamings
