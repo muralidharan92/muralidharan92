@@ -47,6 +47,6 @@
 
 [website]: https://gfixtures.netlify.app/
 [twitter]: https://twitter.com/muralidharanr92
-[youtube]: https://www.youtube.com/channel/UCHWehQi90pCKpQ5sVlRKQ9Q
+[youtube]: https://www.youtube.com/channel/UCbq-8HjdaQz_cSkukeI5VSg
 [instagram]: https://www.instagram.com/i_am_muralidharan/
 [linkedin]: https://www.linkedin.com/in/muralidharan-rajendran-44041aab/
