@@ -1,7 +1,7 @@
 # Hi, I'm Muralidharan 👋
 
 ### I'm an SDET [Software Development Engineer in Test], and Tutor!
-- 🔭 I’m currently working on a [Node.js & Protractor]
+- 🔭 I’m currently working on a [Playwright, TypeScript, Python, Flask, Mongo]
 - 🌱 Right now learning everything 🤣
 - 👯 I’m looking to collaborate with other Node.js project contributors
 - 🥅 2021 Goals: Contribute more to Open Source projects
