@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muralidharan Rajendran</h1>
-<h3 align="center">I'm an Automation Test Engineer from India. And This is my ground rule on my work "Automate with purpose, test with passion"</h3>
+<h3 align="center">I'm an Automation Test Engineer from India. And this is my ground rule on my work "Automate with purpose, test with passion"</h3>
 
 <picture>
   <source
